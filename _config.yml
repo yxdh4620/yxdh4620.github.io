@@ -1,5 +1,5 @@
 # Site settings
-name: 北极熊
+name: 愚公移山
 email: 2456567972@qq.com
 author: Xiang-Dong.Yuan
 url: "https://yxdh4620.github.io"
@@ -8,7 +8,7 @@ github: https://github.com/yxdh4620/
 baseurl: ""
 description: Blog, Xiang-Dong.Yuan!
 meta_description: 袁向东;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
-motto: It's our wits that make us men.
+motto: ''
 banner: 学而不思则罔，思而不学则殆。
 
 #permalink: /:categories/:year/:month/:day/:title/
